@@ -2,6 +2,16 @@
 
 ## Information
 
+* **Textbook:** [Computational and Inferential Thinking: The Foundations of Data Science](https://aup-cs2065.github.io/textbook/html)
+* **Instructors:** [Ruth Corran](https://www.aup.edu/profile/rcorran) and [Tomer Libal](https://www.aup.edu/profile/tlibal)
+* **Grading:**
+  + 30% Individual HWs
+  + 20% Collaborative Labs
+  + 6.6% * 3 Collaborative Projects
+  + 10% * 3 Individual Oral exams
+* **Classroom:** C-302
+* **Teams:** [cs2065/cs5065](https://teams.microsoft.com/l/team/19%3a3rVYH6mwBx6L2UDZzABdlR4zTEn58xiBxElk8-x3yMI1%40thread.tacv2/conversations?groupId=15a9b121-bba4-4070-a986-d875b00229dd&tenantId=787ea242-36aa-42a4-bfcf-b7cbaad1d83b)
+
 ## Schedule
 
 | Date |  Topics |	Resources | Reading | Assignments |
