@@ -18,8 +18,8 @@
 | ---  | ---     | ---        | ----    | -----       |
 | 18/1 |  Intro to Python & Jupyter notebooks, Data science, Causality and experiments | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec01.ipynb) | [Chapter 1](https://aup-cs2065.github.io/textbook/html/chapters/01/what-is-data-science.html), [Chapter 2](https://aup-cs2065.github.io/textbook/html/chapters/02/causality-and-experiments.html) | [Lab 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab01%2Flab01.ipynb) |
 | 21/1 |         |            |         | [HW 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw01%2Fhw01.ipynb) |
-| 25/1 |         |            |         |             |
-| 28/1 |         |            |         |             |
+| 25/1 |  Programming in python, data types, sequences |    | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02]() |
+| 28/1 |         |            |         | [HW 02]() |
 | 1/2  |         |            |         |             |
 | 4/2  |         |            |         |             |
 | 8/2  |         |            |         |             |
