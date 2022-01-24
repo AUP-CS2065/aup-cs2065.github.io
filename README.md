@@ -20,26 +20,25 @@
 | 21/1 |         |            |         | [HW 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw01%2Fhw01.ipynb) |
 | 25/1 |  Programming in python, data types, sequences |    | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02]() |
 | 28/1 |         |            |         | [HW 02]() |
-| 1/2  |         |            |         |             |
+| 1/2  | Tables |    | [Chapter 6]() | [Lab 03]() |
 | 4/2  |         |            |         |             |
-| 8/2  |         |            |         |             |
+| 8/2  | Visualization |    | [Chapter 7]() | [Lab 04]() |
 | 11/2 |         |            |         |             |
-| 15/2 |         |            |         |             |
+| 15/2 | Functions |    | [Chapter 8]() | [Project 1]() |
 | 18/2 |         |            |         |             |
-| 8/3  |         |            |         |             |
+| 8/3  | Randomness |    | [Chapter 9]() | [Lab 05]() |
 | 11/3 |         |            |         |             |
-| 15/3 |         |            |         |             |
+| 15/3 | Sampling, empirical distributions and testing hypotheses |    | [Chapter 10](), [Chapter 11]() | [Lab 06]() |
 | 18/3 |         |            |         |             |
-| 22/3 |         |            |         |             |
+| 22/3 | Comparing two samles |    | [Chapter 12]() | [Midterm Lab]() |
 | 25/3 |         |            |         |             |
-| 29/3 |         |            |         |             |
+| 29/3 | Estimation |    | [Chapter 13]() | [Lab 07]() |
 | 1/4  |         |            |         |             |
-| 5/4  |         |            |         |             |
+| 5/4  | Why the mean mattaers |    | [Chapter 14]() | [Project 2]() |
 | 8/4  |         |            |         |             |
-| 12/4 |         |            |         |             |
+| 12/4 | Prediction |    | [Chapter 15]() | [Lab 08]() |
 | 15/4 |         |            |         |             |
-| 19/4 |         |            |         |             |
 | 22/4 |         |            |         |             |
-| 26/4 |         |            |         |             |
+| 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 09]() |
 | 29/4 |         |            |         |             |
-| 3/5  |         |            |         |             |
+| 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | [Project 3]() |
