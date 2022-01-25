@@ -42,3 +42,30 @@
 | 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 09]() |
 | 29/4 |         |            |         |             |
 | 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | [Project 3]() |
+
+## Course Learning Outcomes
+
+* Students will make effective use of probabilistic and statistical thinking
+* Students will demonstrate a robust understanding of the fundamental ideas of Data Science
+* Students will be able to digitally obtain and parse datasets and to model them in various ways in order to be able to draw information from the data
+* Students will demonstrate to be able to use the Python language and Jupyter Notebook
+* Develop a positive approach to mathematics and to appreciate its use in modeling the world (CCM LO1)
+* Reason with quantitative information –in words, numbers and graphs and charts (CCM LO2)
+* Clearly communicate quantitative information in words, in numbers and with graphs (CCM LO3)
+* Develop strategies for solving problems (CCM LO4)
+
+## Global Liberal Arts Core Curriculum
+
+Some courses at AUP can be used to fulfill the GLACC requirements. As a reminder , the GLACC requirement areas are:
+
+* Integrative Inquiry (CCI)
+* Experiential learning (CCX)
+* Research, Interpretation, and Writing (CCE)
+* Digital Literacy and Communication (CCD)
+* Disciplinary Research Methods and Writing (CCR)
+* Quantitative Reasoning (CCM)
+* Experimental Reasoning Course with Lab (CCS)
+* Expression Française (CCF)
+* AUP Capstone (CCC)
+
+The GLACC associated learning outcomes are indicated with the designation (CCLO) in the list of learning outcomes. If you see a CCLO in that list then this course can be used to fulfill the GLACC requirement for that area. Courses that have multiple CCLOs can only be used to satisfy one of the requirements listed.
