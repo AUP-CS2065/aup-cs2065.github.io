@@ -17,30 +17,30 @@
 | Date |  Topics |	Resources | Reading | Assignments |
 | ---  | ---     | ---        | ----    | -----       |
 | 18/1 |  Intro to Python & Jupyter notebooks, Data science, Causality and experiments | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec01.ipynb) | [Chapter 1](https://aup-cs2065.github.io/textbook/html/chapters/01/what-is-data-science.html), [Chapter 2](https://aup-cs2065.github.io/textbook/html/chapters/02/causality-and-experiments.html) | [Lab 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab01%2Flab01.ipynb) |
-| 21/1 |         |            |         | [HW 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw01%2Fhw01.ipynb) |
-| 25/1 |  Programming in python, data types, sequences |    | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02]() |
-| 28/1 |         |            |         | [HW 02]() |
-| 1/2  | Tables |    | [Chapter 6]() | [Lab 03]() |
-| 4/2  |         |            |         |             |
+| 21/1 | Intro to data and distributions: categorical vs quantitative |            |         | [HW 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw01%2Fhw01.ipynb) |
+| 25/1 |  Programming in python, data types, sequences |    | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab02%2Flab02.ipynb) |
+| 28/1 | Visualizing, describing and comparing distributions |            |         | [HW 02](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw02%2Fhw02.ipynb) |
+| 1/2  | Tables |    | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chapters/06/Tables.html) | [Lab 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab03%2Flab03.ipynb) |
+| 4/2  | Standard deviation and the Normal model |            |         | [HW 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw03%2Fhw03.ipynb)  |
 | 8/2  | Visualization |    | [Chapter 7]() | [Lab 04]() |
-| 11/2 |         |            |         |             |
+| 11/2 | Probability and probability models |            |         | [HW 04]()  |
 | 15/2 | Functions |    | [Chapter 8]() | [Project 1]() |
-| 18/2 |         |            |         |             |
+| 18/2 | Randomness and collecting data (surveys, experiments,..)|            |         | [HW 05]() |
 | 8/3  | Randomness |    | [Chapter 9]() | [Lab 05]() |
-| 11/3 |         |            |         |             |
+| 11/3 | Sampling distribution models |            |         | [HW 06]() |
 | 15/3 | Sampling, empirical distributions and testing hypotheses |    | [Chapter 10](), [Chapter 11]() | [Lab 06]() |
-| 18/3 |         |            |         |             |
+| 18/3 | Hypothesis testing |            |         | [HW 07]() |
 | 22/3 | Comparing two samles |    | [Chapter 12]() | [Midterm Lab]() |
-| 25/3 |         |            |         |             |
+| 25/3 | Confidence intervals |            |         | [HW 08]() |
 | 29/3 | Estimation |    | [Chapter 13]() | [Lab 07]() |
-| 1/4  |         |            |         |             |
+| 1/4  | The central limit theorem |            |         | [HW 09]() |
 | 5/4  | Why the mean mattaers |    | [Chapter 14]() | [Project 2]() |
-| 8/4  |         |            |         |             |
+| 8/4  | Regression |            |         | [HW 10]() |
 | 12/4 | Prediction |    | [Chapter 15]() | [Lab 08]() |
-| 15/4 |         |            |         |             |
-| 22/4 |         |            |         |             |
+| 15/4 | Inference for regression |            |         | [HW 11]() |
+| 22/4 | Multiple Regression |            |         | [HW 12]() |
 | 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 09]() |
-| 29/4 |         |            |         |             |
+| 29/4 | Multiple Regression |            |         |             |
 | 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | [Project 3]() |
 
 ## Course Learning Outcomes
