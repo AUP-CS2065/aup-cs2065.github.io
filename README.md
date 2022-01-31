@@ -20,8 +20,8 @@
 | 21/1 | Intro to data and distributions: categorical vs quantitative |            |         | [HW 01](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw01%2Fhw01.ipynb) |
 | 25/1 |  Programming in python, data types, sequences |    | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab02%2Flab02.ipynb) |
 | 28/1 | Visualizing, describing and comparing distributions |            |         | [HW 02](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw02%2Fhw02.ipynb) |
-| 1/2  | Tables |    | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chapters/06/Tables.html) | [Lab 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab03%2Flab03.ipynb) |
-| 4/2  | Standard deviation and the Normal model |            |         | [HW 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw03%2Fhw03.ipynb)  |
+| 1/2  | Tables |    | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chap) | [Lab 03]() |
+| 4/2  | Standard deviation and the Normal model |            |         | [HW 03]()  |
 | 8/2  | Visualization |    | [Chapter 7]() | [Lab 04]() |
 | 11/2 | Probability and probability models |            |         | [HW 04]()  |
 | 15/2 | Functions |    | [Chapter 8]() | [Project 1]() |
