@@ -40,8 +40,8 @@
 | 15/4 | Inference for regression |            |         | [HW 11]() |
 | 22/4 | Multiple Regression |            |         | [HW 12]() |
 | 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 09]() |
-| 29/4 | Multiple Regression |            |         |             |
-| 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | [Project 3]() |
+| 29/4 | Multiple Regression |            |         | [Project 3]() |
+| 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | |
 
 ## Course Learning Outcomes
 
