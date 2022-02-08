@@ -22,7 +22,7 @@
 | 28/1 | Visualizing, describing and comparing distributions |            |         | [HW 02](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw02%2Fhw02.ipynb) |
 | 1/2  | Tables |  [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec02-04.ipynb) | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chap) | [Lab 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab03%2Flab03.ipynb) |
 | 4/2  | Standard deviation and the Normal model |            |         | [HW 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw03%2Fhw03.ipynb)  |
-| 8/2  | Visualization |    | [Chapter 7]() | [Lab 04]() |
+| 8/2  | Visualization | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec04.ipynb)   | [Chapter 7](https://aup-cs2065.github.io/textbook/html/chapters/07/Visualization.html) | [Lab 04](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab04%2Flab04.ipynb) |
 | 11/2 | Probability and probability models |            |         | [HW 04]()  |
 | 15/2 | Functions |    | [Chapter 8]() | [Project 1]() |
 | 18/2 | Randomness and collecting data (surveys, experiments,..)|            |         | [HW 05]() |
