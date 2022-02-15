@@ -7,8 +7,7 @@
 * **Grading:**
   + 30% Individual HWs
   + 20% Collaborative Labs
-  + 6.6% * 3 Collaborative Projects
-  + 10% * 3 Individual Oral exams
+  + 16.6% * 3 Individual Oral exams
 * **Classroom:** C-302
 * **Teams:** [cs2065/cs5065](https://teams.microsoft.com/l/team/19%3a3rVYH6mwBx6L2UDZzABdlR4zTEn58xiBxElk8-x3yMI1%40thread.tacv2/conversations?groupId=15a9b121-bba4-4070-a986-d875b00229dd&tenantId=787ea242-36aa-42a4-bfcf-b7cbaad1d83b)
 
@@ -23,8 +22,8 @@
 | 1/2  | Tables |  [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec02-04.ipynb) | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chap) | [Lab 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab03%2Flab03.ipynb) |
 | 4/2  | Standard deviation and the Normal model |            |         | [HW 03](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw03%2Fhw03.ipynb)  |
 | 8/2  | Visualization | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec04.ipynb)   | [Chapter 7](https://aup-cs2065.github.io/textbook/html/chapters/07/Visualization.html) | [Lab 04](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab04%2Flab04.ipynb) |
-| 11/2 | Probability and probability models |            |         | [HW 04]()  |
-| 15/2 | Functions |    | [Chapter 8]() | [Project 1]() |
+| 11/2 | Probability and probability models |            |         | [HW 04](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw04%2Fhw04.ipynb)  |
+| 15/2 | Functions | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec05.ipynb)   | [Chapter 8](https://aup-cs2065.github.io/textbook/html/chapters/08/Functions_and_Tables.html) | [Project 1](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fprojects&branch=master&urlpath=tree%2Fprojects%2Fproject1%2Fproject1.ipynb) |
 | 18/2 | Randomness and collecting data (surveys, experiments,..)|            |         | [HW 05]() |
 | 8/3  | Randomness |    | [Chapter 9]() | [Lab 05]() |
 | 11/3 | Sampling distribution models |            |         | [HW 06]() |
