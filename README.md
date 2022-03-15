@@ -29,16 +29,16 @@
 | 11/3 | Sampling distribution models |            |         | [HW 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw06%2Fhw06.ipynb) |
 | 15/3 | Sampling, empirical distributions and testing hypotheses | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec07.ipynb)    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab06%2Flab06.ipynb) |
 | 18/3 | Hypothesis testing |            |         | [HW 07]() |
-| 22/3 | Comparing two samples |    | [Chapter 12]() | [Midterm Lab]() |
+| 22/3 | Comparing two samples |    | [Chapter 12]() | [Lab 07]() |
 | 25/3 | Confidence intervals |            |         | [HW 08]() |
-| 29/3 | Estimation |    | [Chapter 13]() | [Lab 07]() |
+| 29/3 | Estimation |    | [Chapter 13]() | [Lab 08]() |
 | 1/4  | The central limit theorem |            |         | [HW 09]() |
 | 5/4  | Why the mean mattaers |    | [Chapter 14]() | [Project 2]() |
 | 8/4  | Regression |            |         | [HW 10]() |
-| 12/4 | Prediction |    | [Chapter 15]() | [Lab 08]() |
+| 12/4 | Prediction |    | [Chapter 15]() | [Lab 09]() |
 | 15/4 | Inference for regression |            |         | [HW 11]() |
 | 22/4 | Multiple Regression |            |         | [HW 12]() |
-| 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 09]() |
+| 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 10]() |
 | 29/4 | Multiple Regression |            |         | [Project 3]() |
 | 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | |
 
