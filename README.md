@@ -29,7 +29,7 @@
 | 11/3 | Sampling distribution models |            |         | [HW 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw06%2Fhw06.ipynb) |
 | 15/3 | Sampling, empirical distributions and testing hypotheses | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec07.ipynb)    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab06%2Flab06.ipynb) |
 | 18/3 | Hypothesis testing |            |         | [HW 07]() |
-| 22/3 | Comparing two samles |    | [Chapter 12]() | [Midterm Lab]() |
+| 22/3 | Comparing two samples |    | [Chapter 12]() | [Midterm Lab]() |
 | 25/3 | Confidence intervals |            |         | [HW 08]() |
 | 29/3 | Estimation |    | [Chapter 13]() | [Lab 07]() |
 | 1/4  | The central limit theorem |            |         | [HW 09]() |
