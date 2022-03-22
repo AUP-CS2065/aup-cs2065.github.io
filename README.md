@@ -31,9 +31,9 @@
 | 18/3 | Hypothesis testing |            |         | [HW 07](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw07%2Fhw07.ipynb) |
 | 22/3 | Comparing two samples | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec08.ipynb) | [Chapter 12](https://aup-cs2065.github.io/textbook/html/chapters/12/Comparing_Two_Samples.html) | [Lab 07](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab07%2Flab07.ipynb) |
 | 25/3 | Confidence intervals |            |         | [HW 08]() |
-| 29/3 | Estimation |    | [Chapter 13]() | [Lab 08]() |
+| 29/3 | Estimation |    | [Chapter 13]() | [Project 2]() |
 | 1/4  | The central limit theorem |            |         | [HW 09]() |
-| 5/4  | Why the mean mattaers |    | [Chapter 14]() | [Project 2]() |
+| 5/4  | Why the mean mattaers |    | [Chapter 14]() | [Lab 08]() |
 | 8/4  | Regression |            |         | [HW 10]() |
 | 12/4 | Prediction |    | [Chapter 15]() | [Lab 09]() |
 | 15/4 | Inference for regression |            |         | [HW 11]() |
