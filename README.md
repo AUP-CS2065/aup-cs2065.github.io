@@ -34,13 +34,13 @@
 | 29/3 | Estimation | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec09.ipynb) | [Chapter 13](https://aup-cs2065.github.io/textbook/html/chapters/13/Estimation.html) | [Project 2](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fprojects&branch=master&urlpath=tree%2Fprojects%2Fproject2%2Fproject2.ipynb) |
 | 1/4  | The central limit theorem |            |         | [HW 09](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw09%2Fhw09.ipynb) |
 | 5/4  | Why the mean mattaers | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec10.ipynb)   | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) | [Lab 08](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab08%2Flab08.ipynb) |
-| 8/4  | Regression |            |         | [HW 10]() |
-| 12/4 | Prediction |    | [Chapter 15]() | [Lab 09]() |
-| 15/4 | Inference for regression |            |         | [HW 11]() |
-| 22/4 | Multiple Regression |            |         | [HW 12]() |
-| 26/4 | Inference and regression |    | [Chapter 16]() | [Lab 10]() |
-| 29/4 | Multiple Regression |            |         | [Project 3]() |
-| 3/5  | Classification and updating predictions |    | [Chapter 17](), [Chapter 18]() | |
+| 8/4  | Regression |            |         | [HW 10](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw10%2Fhw10.ipynb) |
+| 12/4 | Prediction | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec12.ipynb)   | [Chapter 15](file:///home/shaolin/Documents/Teaching/2022/cs2065/textbook/html/chapters/15/Prediction.html) | [Lab 09](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab09%2Flab09.ipynb) |
+| 15/4 | Inference for regression |            |         | [HW 11](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw11%2Fhw11.ipynb) |
+| 22/4 | Multiple Regression |            |         | |
+| 26/4 | Inference and classification |    | [Chapter 16](), [Chapter 17]() | [Project 3]() |
+| 29/4 | Multiple Regression |            |         | [HW12]() |
+| 3/5  | Updating predictions |    | [Chapter 18]() | [Lab10]() |
 
 ## Course Learning Outcomes
 
