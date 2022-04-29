@@ -38,7 +38,7 @@
 | 12/4 | Prediction | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec12.ipynb)   | [Chapter 15](file:///home/shaolin/Documents/Teaching/2022/cs2065/textbook/html/chapters/15/Prediction.html) | [Lab 09](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab09%2Flab09.ipynb) |
 | 15/4 | Inference for regression |            |         | [HW 11](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw11%2Fhw11.ipynb) |
 | 22/4 | Multiple Regression |            |         | |
-| 26/4 | Inference and classification |    | [Chapter 16](), [Chapter 17]() | [Project 3]() |
+| 26/4 | Inference and classification | [Demo](https://github.com/AUP-CS2065/lecture/blob/master/lec12.ipynb)   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) | [Project 3](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fprojects&branch=master&urlpath=tree%2Fprojects%2Fproject3%2Fproject3.ipynb) |
 | 29/4 | Multiple Regression |            |         | [HW12]() |
 | 3/5  | Updating predictions |    | [Chapter 18]() | [Lab10]() |
 
