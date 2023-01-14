@@ -17,30 +17,30 @@
 | ---  | ---     | ---        | ----    | -----       |
 | 16/1 | Intro to data and distributions: categorical vs quantitative |            | | [HW 01]()      |
 | 19/1 |  Intro to Python & Jupyter notebooks, Data science, Causality and experiments | [Demo]() | [Chapter 1](https://aup-cs2065.github.io/textbook/html/chapters/01/what-is-data-science.html), [Chapter 2](https://aup-cs2065.github.io/textbook/html/chapters/02/causality-and-experiments.html) | [Lab 01]() |
-| 25/1 |  Programming in python, data types, sequences | [Demo]() | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02]() |
 | 23/1 | Visualizing, describing and comparing distributions |            |         | [HW 02]() |
-| 26/1  | Tables |  [Demo]() | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chap) | [Lab 03]() |
+| 26/1 |  Programming in python, data types, sequences | [Demo]() | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02]() |
 | 30/1  | Standard deviation and the Normal model |            |         | [HW 03]()  |
-| 2/2  | Visualization | [Demo]()   | [Chapter 7](https://aup-cs2065.github.io/textbook/html/chapters/07/Visualization.html) | [Lab 04]() |
+| 2/2  | Tables |  [Demo]() | [Chapter 6](https://aup-cs2065.github.io/textbook/html/chap) | [Lab 03]() |
 | 6/2 | Probability and probability models |            |         | [HW 04]()  |
-| 9/2 | Functions | [Demo]()   | [Chapter 8]() | [Project 1]() |
+| 9/2  | Visualization | [Demo]()   | [Chapter 7](https://aup-cs2065.github.io/textbook/html/chapters/07/Visualization.html) | [Lab 04]() |
 | 13/2 | Randomness and collecting data (surveys, experiments,..)|            |         | [HW 05]() |
-| 16/2  | Randomness | [Demo]() | [Chapter 9](https://aup-cs2065.github.io/textbook/html/chapters/09/Randomness.html) | [Lab 05]() |
+| 16/2 | Functions | [Demo]()   | [Chapter 8]() | [Project 1]() |
 | 20/2 | Sampling distribution models |            |         | [HW 06]() |
 | 23/2 | Hypothesis testing |            |         | |
 | 13/3 | Confidence intervals |            |         | [HW 07]() |
-| 16/3 | Sampling, empirical distributions and testing hypotheses | [Demo]()    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06]() |
+| 16/3  | Randomness | [Demo]() | [Chapter 9](https://aup-cs2065.github.io/textbook/html/chapters/09/Randomness.html) | [Lab 05]() |
 | 20/3  | The central limit theorem |            |         | [HW 08]() |
-| 23/3 | Estimation | [Demo]() | [Chapter 13](https://aup-cs2065.github.io/textbook/html/chapters/13/Estimation.html) | [Project 2]() |
+| 23/3 | Sampling, empirical distributions and testing hypotheses | [Demo]()    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06]() |
 | 27/3  | Regression |            |         | [HW 09]() |
-| 30/3 | Comparing two samples | [Demo]() | [Chapter 12](https://aup-cs2065.github.io/textbook/html/chapters/12/Comparing_Two_Samples.html) | [Lab 07]() |
+| 30/3 | Estimation | [Demo]() | [Chapter 13](https://aup-cs2065.github.io/textbook/html/chapters/13/Estimation.html) | [Project 2]() |
 | 3/4 | Inference for regression |            |         | [HW 10]() |
-| 6/4  | Why the mean mattaers | [Demo]()   | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) | [Lab 08]() |
+| 6/4 | Comparing two samples | [Demo]() | [Chapter 12](https://aup-cs2065.github.io/textbook/html/chapters/12/Comparing_Two_Samples.html) | [Lab 07]() |
 | 13/4 | Prediction | [Demo]()   | [Chapter 15](https://aup-cs2065.github.io/textbook/html/chapters/15/Prediction.html) | [Lab 09]() |
 | 17/4 | Multiple Regression |            | | [HW11]() |
-| 20/4 | Inference and classification | [Demo]()   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) | [Project 3]() |
+| 20/4  | Why the mean mattaers | [Demo]()   | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) | [Lab 08]() |
 | 24/4 | Multiple Regression |            |         | [HW12]() |
-| 27/4  | Updating predictions |    | [Chapter 18]() | [Lab10]() |
+| 27/4 | Inference and classification | [Demo]()   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) | [Project 3]() |
+| 4/5  | Updating predictions |    | [Chapter 18]() | [Lab10]() |
 
 ## Course Learning Outcomes
 
