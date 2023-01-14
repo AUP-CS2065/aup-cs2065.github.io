@@ -15,7 +15,7 @@
 
 | Date |  Topics |	Resources | Reading | Assignments |
 | ---  | ---     | ---        | ----    | -----       |
-| 16/1 | Intro to data and distributions: categorical vs quantitative |            | [HW 01]()      | |
+| 16/1 | Intro to data and distributions: categorical vs quantitative |            | | [HW 01]()      |
 | 19/1 |  Intro to Python & Jupyter notebooks, Data science, Causality and experiments | [Demo]() | [Chapter 1](https://aup-cs2065.github.io/textbook/html/chapters/01/what-is-data-science.html), [Chapter 2](https://aup-cs2065.github.io/textbook/html/chapters/02/causality-and-experiments.html) | [Lab 01]() |
 | 25/1 |  Programming in python, data types, sequences | [Demo]() | [Chapter 3](https://aup-cs2065.github.io/textbook/html/chapters/03/programming-in-python.html), [Chapter4](https://aup-cs2065.github.io/textbook/html/chapters/04/Data_Types.html), [Chapter 5](https://aup-cs2065.github.io/textbook/html/chapters/05/Sequences.html) | [Lab 02]() |
 | 23/1 | Visualizing, describing and comparing distributions |            |         | [HW 02]() |
