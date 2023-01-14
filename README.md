@@ -35,9 +35,9 @@
 | 30/3 | Estimation | [Demo]() | [Chapter 13](https://aup-cs2065.github.io/textbook/html/chapters/13/Estimation.html) | [Project 2]() |
 | 3/4 | Inference for regression |            |         | [HW 10]() |
 | 6/4 | Comparing two samples | [Demo]() | [Chapter 12](https://aup-cs2065.github.io/textbook/html/chapters/12/Comparing_Two_Samples.html) | [Lab 07]() |
-| 13/4 | Prediction | [Demo]()   | [Chapter 15](https://aup-cs2065.github.io/textbook/html/chapters/15/Prediction.html) | [Lab 09]() |
+| 13/4  | Why the mean mattaers | [Demo]()   | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) | [Lab 08]() |
 | 17/4 | Multiple Regression |            | | [HW11]() |
-| 20/4  | Why the mean mattaers | [Demo]()   | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) | [Lab 08]() |
+| 20/4 | Prediction | [Demo]()   | [Chapter 15](https://aup-cs2065.github.io/textbook/html/chapters/15/Prediction.html) | [Lab 09]() |
 | 24/4 | Multiple Regression |            |         | [HW12]() |
 | 27/4 | Inference and classification | [Demo]()   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) | [Project 3]() |
 | 4/5  | Updating predictions |    | [Chapter 18]() | [Lab10]() |
