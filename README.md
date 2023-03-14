@@ -25,9 +25,9 @@
 | 9/2  | Visualization | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec04.ipynb)   | [Chapter 7](https://aup-cs2065.github.io/textbook/html/chapters/07/Visualization.html) | [Lab 04](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab04%2Flab04.ipynb) |
 | 13/2 | Randomness and collecting data (surveys, experiments,..)|            |         | [HW 04](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw04%2Fhw04.ipynb) |
 | 16/2 | Functions | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec05.ipynb)   | [Chapter 8](https://aup-cs2065.github.io/textbook/html/chapters/08/Functions_and_Tables.html2) | [Project 1](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fprojects&branch=master&urlpath=tree%2Fprojects%2Fproject1%2Fproject1.ipynb) |
-| 20/2 | Sampling distribution models |            |         | [HW 05]() |
+| 20/2 | Sampling distribution models |            |         | [HW 05](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw05%2Fhw05.ipynb) |
 | 23/2 | Hypothesis testing |            |         | |
-| 13/3 | Confidence intervals |            |         | [HW 06]() |
+| 13/3 | Confidence intervals |            |         | [HW 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw06%2Fhw06.ipynb) |
 | 16/3  | Randomness | [Demo]() | [Chapter 9](https://aup-cs2065.github.io/textbook/html/chapters/09/Randomness.html) | [Lab 05]() |
 | 20/3  | The central limit theorem |            |         | [HW 07]() |
 | 23/3 | Sampling, empirical distributions and testing hypotheses | [Demo]()    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06]() |
