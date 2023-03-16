@@ -28,7 +28,7 @@
 | 20/2 | Sampling distribution models |            |         | [HW 05](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw05%2Fhw05.ipynb) |
 | 23/2 | Hypothesis testing |            |         | |
 | 13/3 | Confidence intervals |            |         | [HW 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw06%2Fhw06.ipynb) |
-| 16/3  | Randomness | [Demo]() | [Chapter 9](https://aup-cs2065.github.io/textbook/html/chapters/09/Randomness.html) | [Lab 05]() |
+| 16/3  | Randomness | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec06.ipynb) | [Chapter 9](https://aup-cs2065.github.io/textbook/html/chapters/09/Randomness.html) | [Lab 05](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab05%2Flab05.ipynb) |
 | 20/3  | The central limit theorem |            |         | [HW 07]() |
 | 23/3 | Sampling, empirical distributions and testing hypotheses | [Demo]()    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06]() |
 | 27/3  | Regression |            |         | [HW 08]() |
