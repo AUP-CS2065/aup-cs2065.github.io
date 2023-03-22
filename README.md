@@ -29,7 +29,7 @@
 | 23/2 | Hypothesis testing |            |         | |
 | 13/3 | Confidence intervals |            |         | [HW 06](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw06%2Fhw06.ipynb) |
 | 16/3  | Randomness | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec06.ipynb) | [Chapter 9](https://aup-cs2065.github.io/textbook/html/chapters/09/Randomness.html) | [Lab 05](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab05%2Flab05.ipynb) |
-| 20/3  | The central limit theorem |            |         | [HW 07]() |
+| 20/3  | The central limit theorem |            |         | [HW 07](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw07%2Fhw07.ipynb) |
 | 23/3 | Sampling, empirical distributions and testing hypotheses | [Demo]()    | [Chapter 10](https://aup-cs2065.github.io/textbook/html/chapters/10/Sampling_and_Empirical_Distributions.html), [Chapter 11](https://aup-cs2065.github.io/textbook/html/chapters/11/Testing_Hypotheses.html) | [Lab 06]() |
 | 27/3  | Regression |            |         | [HW 08]() |
 | 30/3 | Comparing two samples | [Demo]() | [Chapter 12](https://aup-cs2065.github.io/textbook/html/chapters/12/Comparing_Two_Samples.html) | [Lab 07]() |
