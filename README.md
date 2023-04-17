@@ -36,11 +36,11 @@
 | 3/4 | Inference for regression |            |         | [HW 09](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw09%2Fhw09.ipynb) |
 | 6/4 | Estimation | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec09.ipynb) | [Chapter 13](https://aup-cs2065.github.io/textbook/html/chapters/13/Estimation.html) | [Project 2](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fprojects&branch=master&urlpath=tree%2Fprojects%2Fproject2%2Fproject2.ipynb) |
 | 13/4  | Why the mean mattaers | [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec10.ipynb)   | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) | [Lab 08](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab08%2Flab08.ipynb) |
-| 17/4 | Multiple Regression |            | | [HW10]() |
+| 17/4 | Multiple Regression |            | | [HW10](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw10%2Fhw10.ipynb) |
 | 20/4 | Prediction | [Demo]()   | [Chapter 15](https://aup-cs2065.github.io/textbook/html/chapters/15/Prediction.html) | [Lab 09]() |
 | 24/4 | Multiple Regression |            |         | [HW11]() |
 | 27/4 | Inference and classification | [Demo]()   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) | [Project 3]() |
-| 4/5  | Updating predictions |    | [Chapter 18]() | [Lab10](), [HW12]() |
+| 4/5  |  |    | |  |
 
 ## Course Learning Outcomes
 
