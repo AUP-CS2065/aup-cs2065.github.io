@@ -3,7 +3,7 @@
 ## Information
 
 * **Textbook:** [Computational and Inferential Thinking: The Foundations of Data Science](https://aup-cs2065.github.io/textbook/html)
-* **Instructors:** [Quang Nguyen Luong](https://www.aup.edu/profile/qnguyen) and [Tomer Libal](https://www.aup.edu/profile/tlibal)
+* **Instructors:** [Thomas](https://www.aup.edu/profile/qnguyen) and [Lee Ann](https://www.aup.edu/profile/tlibal)
 * **Grading:**
   + 25% Individual HWs
   + 15% Collaborative Labs
